@@ -12,6 +12,7 @@ cd rl-swarm
 
 # Sanal ortam oluştur ve etkinleştir
 python3 -m venv .venv
+
 source .venv/bin/activate  
 
 Windows için : .venv\Scripts\activate)
@@ -21,6 +22,7 @@ pip install -r requirements.txt
 
 # RL Swarm'u çalıştır
 chmod +x run_rl_swarm.sh  # (Gerekirse izin ver)
+
 ./run_rl_swarm.sh
 
 Testnet’e katılmak için Enter bas. (Y seçeneği)
@@ -36,6 +38,7 @@ Cihazın Swarm’a bağlandı, modelin eğitilmeye başladı.
 ---------------------------------------------------------
 
 Giriş sorunu yaşarsanız bu kodu terminale yapıştırın
+
 sudo rm swarm.pem
 
 Swarm UI açmak için bu kodu yazın:
