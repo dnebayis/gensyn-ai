@@ -7,6 +7,7 @@ Kendi bilgisayarınıza veya sunucuya kurabilirsiniz. Hangisini tercih ederseniz
 # Depoyu klonla
 
 git clone https://github.com/gensyn-ai/rl-swarm.git
+
 cd rl-swarm
 
 # Sanal ortam oluştur ve etkinleştir
