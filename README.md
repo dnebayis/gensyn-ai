@@ -1,4 +1,4 @@
-Gensyn RL Swarm Node kurulum rehberi
+Gensyn RL Swarm Node kurulum rehberi @onchainboi
 
 Kendi bilgisayarınıza veya sunucuya kurabilirsiniz. Hangisini tercih ederseniz artık tamamen size kalmış.
 
